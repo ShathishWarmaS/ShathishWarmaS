@@ -39,7 +39,7 @@ I'm open to working together on:
 
 ### 📫 Reach Me At
 
-- 📧 Email: **shathishwarma.dev@gmail.com**
+- 📧 Email: **shathishwarma@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/shathishwarma](https://www.linkedin.com/in/shathish-warma-s/)
 - 🌐 Website (coming soon): [shathishwarma.dev](https://shathishwarma.dev)
 
