@@ -1,5 +1,5 @@
 <!-- Profile Banner (Upload your own banner to your repo and use raw GitHub URL here) -->
-<img src="https://github.com/ShathishWarmaS/ShathishWarmaS/banner.png" alt="Banner" width="100%" />
+<img src="ShathishWarmaS/ShathishWarmaS/banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">👋 Hi there, I'm Shathish Warma S</h1>
 
