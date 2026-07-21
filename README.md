@@ -197,6 +197,43 @@ currently_building:
 
 ---
 
+## 📐 System Design Portfolio
+
+Detailed system-design write-ups — each in a consistent four-step format (use cases & constraints → high-level design → core components → scale), with back-of-the-envelope math, schemas, trade-off tables, and Mermaid diagrams.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🧩 [system-design-solutions](https://github.com/ShathishWarmaS/system-design-solutions)
+18 classic designs — rate limiter, URL shortener, KV store & cache, message queue, chat, news feed, web crawler, autocomplete, ride-sharing, video streaming, payments, collaborative editing (OT/CRDT), metrics/monitoring, LLM inference serving, and building a cloud provider (object storage + IaaS). Includes a FAANG interview guide.
+
+  </td>
+    <td valign="top" width="50%">
+
+### 📸 [system-design-instagram](https://github.com/ShathishWarmaS/system-design-instagram)
+Photo-sharing service — hybrid feed fan-out, Snowflake IDs, sharded metadata, CDN, and an AWS/GCP cloud implementation.
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🎨 [system-design-ai-media-platform](https://github.com/ShathishWarmaS/system-design-ai-media-platform)
+Generative-AI media platform (image/video/audio + RAG) — GPU scheduling (H100/H200/B200), CPU preprocessing, MLflow model lifecycle, AWS/GCP mapping.
+
+  </td>
+    <td valign="top" width="50%">
+
+### 🤖 [system-design-ai-agents](https://github.com/ShathishWarmaS/system-design-ai-agents)
+Autonomous tool-using agent platform — durable agent loops, tool sandboxing, grounded memory, single/multi/fleet topologies, evaluation, cost model, and a security threat model.
+
+  </td>
+  </tr>
+</table>
+
+---
+
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
